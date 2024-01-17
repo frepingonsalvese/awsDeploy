@@ -14,7 +14,7 @@ app.use("/user", userRouter)
 
 app.get('/'  , (req , res) => {
   res.json({
-    msg : "Yea brother I am here for you"
+    msg : "Yea brother I am here for you 2"
   })
 })
 // Connect to MongoDB
